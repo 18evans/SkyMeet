@@ -4,3 +4,6 @@
 [submodule "skymeet-ios"]
 	path = skymeet-ios
 	url = https://github.com/18evans/SkyMeet-geolocation-AR
+[submodule "skymeet-backend"]
+	path = skymeet-backend
+	url = https://github.com/18evans/SkyMeet-Backend
