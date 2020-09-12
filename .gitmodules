@@ -1,0 +1,3 @@
+[submodule "skymeet-android"]
+	path = skymeet-android
+	url = https://github.com/18evans/SkyMeet-Android
